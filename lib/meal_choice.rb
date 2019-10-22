@@ -7,5 +7,5 @@ def meal_choice (veg1, veg2, protein="meat")
 end
 # veg1 = "tomato"
 # veg2 = "onion"
-#meal_choice("broccoli", "macaroni")
+# meal_choice("broccoli", "macaroni")
 
